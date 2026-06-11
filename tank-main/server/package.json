@@ -1,0 +1,12 @@
+{
+  "name": "neon-tank-battle-server",
+  "version": "1.0.0",
+  "description": "LAN server for Neon Tank Battle",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
